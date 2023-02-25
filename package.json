@@ -1,0 +1,26 @@
+{
+  "name": "ui-automation-cypress",
+  "version": "1.0.0",
+  "description": "ui automation kasir aja",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puputym/UI-Automation-Cypress.git"
+  },
+  "keywords": [
+    "kasiraja",
+    "cypress"
+  ],
+  "author": "puput",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puputym/UI-Automation-Cypress/issues"
+  },
+  "homepage": "https://github.com/puputym/UI-Automation-Cypress#readme",
+  "devDependencies": {
+    "cypress": "^12.7.0"
+  }
+}
